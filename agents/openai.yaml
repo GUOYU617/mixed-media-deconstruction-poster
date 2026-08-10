@@ -1,0 +1,4 @@
+interface:
+  display_name: "原位混合媒介拼贴海报"
+  short_description: "自然原色、原位结构、强制撕纸接缝与大留白的混合媒介海报"
+  default_prompt: "Use $mixed-media-deconstruction-poster to preserve this image's natural colors and source geometry, then add 2–4 clearly visible in-place torn-paper seams between different media with at least 20% clean whitespace."
